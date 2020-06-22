@@ -1,4 +1,4 @@
-# MySql-Backup-using-Batch-File
+# MySql Backup using Batch File (.bat)
 
 - How to backup your MySQL database automatically using batch file (.bat).
 
